@@ -4,7 +4,7 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
-Updating picture 1. Hi there -- I'm Udhayaswaran Ponshunmugam, a software engineer.  
+Updating picture. Hi there -- I'm Udhayaswaran Ponshunmugam, a software engineer.  
 
 I graduated from Wake Forest University in December of 2019 with a B.S. in Computer Science. At Wake Forest, I was a Richter Scholar, Teaching Assistant in the Department of Computer Science, President of the <a href = "https://www.acm.org/"> ACM </a> University Chapter, and Resident Adviser.  
 I'm currently working as a Rotation [Software] Engineer at Nike. I have worked on a variety of teams at Nike, doing a variety of tasks ranging from backend engineering, React web development, infrastructure maintenance, to project management related tasks.
