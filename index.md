@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/swaran.jpg
   alt: website picture
 ---
 Hi there -- I'm Udhayaswaran Ponshunmugam, a software engineer.  
