@@ -13,14 +13,12 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
+      value: Email
       link: mailto:udhayaswaran@gmail.com
   follow:
     - name: LinkedIn
